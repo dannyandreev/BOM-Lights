@@ -1,0 +1,12 @@
+FIXES since last version
+1) Gerber files are missing copper pours
+2) trace too thin between d4 and r17
+3) 
+4) 
+
+ISSUES with this version
+1) shit gnd for vin cap on the maxm15062 chip ALSO MAKE SURE TO SOLDER IT THE FUCKING RIGHT WAY
+2) no way to measure input voltage
+3) 
+4) 10uF caps too tall
+5) dimensions wrong on backend of pcb - too small 

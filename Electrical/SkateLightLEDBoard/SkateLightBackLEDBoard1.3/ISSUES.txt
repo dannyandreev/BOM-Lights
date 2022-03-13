@@ -1,0 +1,11 @@
+FIXES since last version
+1) 
+2) 
+3) 
+4) 
+
+ISSUES with this version
+1) Silk screen + and - on led wrong.
+2) 
+3) 
+4) 

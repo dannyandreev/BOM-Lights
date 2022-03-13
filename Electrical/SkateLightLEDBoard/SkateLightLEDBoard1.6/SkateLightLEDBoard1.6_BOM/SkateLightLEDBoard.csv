@@ -1,0 +1,10 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,"D5,D3,D4",Not Populated,0,Not Populated,Not Populated
+2,"J2,J1",Conn_2x4_0.05in,2,Conn_02x04_Odd_Even,20021111-00008T4LF
+3,"H8,H7,H6,H5,H1,H2,H3,H4",Not Populated,0,Not Populated,Not Populated
+4,"U1,U2",SOT-23,2,MCP9700AT-E_TT,MCP9700AT-E/TT
+5,D1,D_0402_1005Metric,1,LEDR,QBLP595-R
+6,D2,D_0402_1005Metric,1,LEDG,QBLP595-IG
+7,"Q1,Q2",D_0603_1608Metric,2,Q_Photo_NPN_EC,PT19-21B/L41/TR8
+8,"R3,R4",R_0402_1005Metric,2,100k 1%,RMCF0402FT100K
+9,"R1,R2",R_0402_1005Metric,2,2k7 5%,ERJ-2RKF2701X

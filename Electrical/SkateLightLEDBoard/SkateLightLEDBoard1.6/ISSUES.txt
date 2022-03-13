@@ -1,0 +1,11 @@
+FIXES since last version
+1) 
+2) 
+3) 
+4) 
+
+ISSUES with this version
+1) Had no copper pours 
+2) 2x4 connectors are a bit loose in their footprint
+3) 
+4) 

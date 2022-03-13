@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ29209DRBR
+D Voltage Protection with Automatic Cell Balance for 2-Series Cell Li-Ion Batteries%D 
+K
+F http://www.ti.com/lit/ds/symlink/bq29209.pdf
+$ENDCMP
+#
+#End Doc Library

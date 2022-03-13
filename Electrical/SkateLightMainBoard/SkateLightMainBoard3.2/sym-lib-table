@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LDS3985M33R)(type Legacy)(uri F:/Lib/Kicad/LDS3985M33R/LDS3985M33R.lib)(options "")(descr ""))
+  (lib (name ATMEGA328P-AUR)(type Legacy)(uri F:/Lib/Kicad/ATMEGA328P-AUR/ATMEGA328P-AUR.lib)(options "")(descr ""))
+)

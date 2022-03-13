@@ -1,0 +1,4 @@
+System Requirments
+16.7V @ 0.7A x 3 = 35.07W on lights
+90%+ Eff on LED Driver 38.97W input.
+@Vin of 38.4Nominal Iin is ~1A, 1.5Amax - thus input wires/connectors need to handle 1.5A min.

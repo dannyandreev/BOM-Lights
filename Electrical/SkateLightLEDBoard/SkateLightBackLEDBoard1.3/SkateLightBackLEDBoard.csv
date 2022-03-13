@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D3,D1,D2,D4,D5,D6,D7,D8,D9,D10,D11,D12";"SST-10-DR-B90-G660";12;"LED_PAD";;;
+2;"R2,R1";"R_0402_1005Metric";2;"10k 5%";;;
+3;"Q2,Q1";"D_0603_1608Metric";2;"Q_Photo_NPN";;;
+4;"U2,U1";"SOT-23";2;"MCP9700AT-E_TT";;;
+5;"J2,J1";"Conn_2x4_0.05in";2;"Conn_02x04_Odd_Even";;;
+6;"H4,H3,H1,H2,H5,H6";"MH_0-80_Screw_Grounded";6;"MountingHole_Pad";;;
+7;"D13";"D_0402_1005Metric";1;"LEDR";;;
+8;"D14";"D_0402_1005Metric";1;"LEDG";;;
+9;"R3";"R_0402_1005Metric";1;"2k7 5%";;;
+10;"R4";"R_0402_1005Metric";1;"390 5%";;;
+11;"HS1,HS2,HS3";"BomLightBackLEDHeatsink";3;"Heatsink_Pad";;;

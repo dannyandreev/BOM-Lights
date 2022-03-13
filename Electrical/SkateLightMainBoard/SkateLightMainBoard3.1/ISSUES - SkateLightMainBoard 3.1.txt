@@ -1,0 +1,14 @@
+FIXES since last version
+1) maxm soldered the right way and gnd fixed
+2) 10uF caps placed on bottom side
+3) pcb dimensions fixed
+4) spi breakout pins
+5) vin voltage reading
+6) input bias voltage protection
+
+ISSUES with this version
+1) 
+2) 
+3) 
+4) 
+5) 

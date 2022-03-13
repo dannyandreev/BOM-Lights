@@ -1,0 +1,15 @@
+FIXES since last version
+1) switched from stm to atmega
+2) 10uF caps placed on bottom side
+3) pcb dimensions fixed
+4) vin voltage reading
+5) input bias voltage protection
+6) screws staggered for back/front panel attachment
+7) 12V converter and rgb led control created
+
+ISSUES with this version
+1) center wire hole is pad not hole
+2) No buzzer
+3) no fuses on 12v 
+4) need pull down resistor on 12v dcdc
+5) at least 1 series resister on MOSI line

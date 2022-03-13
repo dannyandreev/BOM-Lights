@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 54
+#/251476/55064/2.36/3/4/Battery
+DEF 54 BT 0 30 Y Y 1 F N
+F0 "BT" 650 300 50 H V L CNN
+F1 "54" 650 200 50 H V L CNN
+F2 "54" 650 100 50 H I L CNN
+F3 "http://www.farnell.com/datasheets/1703960.pdf" 650 0 50 H I L CNN
+F4 "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "Keystone Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "54" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "RS Part Number"
+F9 "" 650 -600 50 H I L CNN "RS Price/Stock"
+F10 "70229904" 650 -700 50 H I L CNN "Allied_Number"
+F11 "http://www.alliedelec.com/keystone-electronics-54/70229904/" 650 -800 50 H I L CNN "Allied Price/Stock"
+F12 "534-54" 650 -900 50 H I L CNN "Mouser Part Number"
+F13 "https://www.mouser.com/Search/Refine.aspx?Keyword=534-54" 650 -1000 50 H I L CNN "Mouser Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 0 -100 200 R 50 50 0 0 B
+X 3 3 800 0 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

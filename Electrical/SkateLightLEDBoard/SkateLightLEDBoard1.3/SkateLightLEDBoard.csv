@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J2,J1";"Conn_2x4_0.05in";2;"Conn_02x04_Odd_Even";;;
+2;"H8,H7,H6,H5,H1,H2,H3,H4";"MH_0-80_Screw_Grounded";8;"MountingHole_Pad";;;
+3;"U4,U5";"SOT-23";2;"MCP9700AT-E_TT";;;
+4;"D3,D4,D5";"BXRE-40E0800-D-73";3;"LED";;;
+5;"D7";"D_0402_1005Metric";1;"LEDR";;;
+6;"D8";"D_0402_1005Metric";1;"LEDG";;;
+7;"Q1,Q2";"D_0603_1608Metric";2;"Q_Photo_NPN";;;
+8;"R1,R2";"R_0402_1005Metric";2;"R";;;
+9;"R4";"R_0402_1005Metric";1;"2k7";;;
+10;"R5";"R_0402_1005Metric";1;"390";;;
